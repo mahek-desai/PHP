@@ -1,4 +1,4 @@
-# Supermarket Management System
+# PHP
 # Supermarket Management System using PHP
 
 This project is a Supermarket Management System developed using PHP. The system is designed to manage the various operations of a supermarket efficiently. It includes functionalities such as managing inventory, handling sales, generating reports, and maintaining customer information.
